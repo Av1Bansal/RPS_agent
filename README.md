@@ -1,3 +1,6 @@
+**Rock Paper Scissor Agent
+**
+
 The agent operates by maintaining a history of:
 
 Its own actions
